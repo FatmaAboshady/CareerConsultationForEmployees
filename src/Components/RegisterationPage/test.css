@@ -1,0 +1,13 @@
+.skill:hover .tool{
+    position: absolute !important;
+    bottom: 55px;
+    right:20px;
+}
+
+ul li:hover {
+    color:blue;
+}
+
+.skill:hover{
+    color:blue;
+}

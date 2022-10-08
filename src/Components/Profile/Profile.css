@@ -1,0 +1,24 @@
+            .bg-main {
+                background-color: #3CB371 !important;
+                ;
+            }
+            
+            .vh {
+                background-image: linear-gradient(#3CB371, #f8f9fa);
+            }
+            
+            .bg-white {
+                background-color: white;
+            }
+            
+            .h-1 {
+                height: 2px;
+            }
+            
+            .vh-75 {
+                height: 75vh;
+            }
+            
+            .card {
+                border: none !important;
+            }

@@ -1,0 +1,13 @@
+.iconSize {
+    font-size:20px !important;
+}
+.iconRed{
+   background-color:red !important;
+}
+.iconbibyBlue {
+    background-color: rgb(36, 128, 214) !important;
+}
+.parent {
+    width:30px;
+    height: 30px;
+}
