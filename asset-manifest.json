@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CareerConsultationForEmployees/static/css/main.c88616f2.css",
+    "main.js": "/CareerConsultationForEmployees/static/js/main.ec2e91c6.js",
+    "static/media/Forest.png": "/CareerConsultationForEmployees/static/media/Forest.ac7952d9f9db9881a3a3.png",
+    "static/media/Forms.png": "/CareerConsultationForEmployees/static/media/Forms.86abbb37df55e8995652.png",
+    "static/media/Recommendation.png": "/CareerConsultationForEmployees/static/media/Recommendation.6bc6deefba0f987e9218.png",
+    "static/media/Computer.png": "/CareerConsultationForEmployees/static/media/Computer.d67cc472beb7d6b58a4e.png",
+    "static/media/About.png": "/CareerConsultationForEmployees/static/media/About.5267b48665e7222ab31c.png",
+    "static/media/section.jpg": "/CareerConsultationForEmployees/static/media/section.abc194080b478b890b68.jpg",
+    "static/media/how-to-do-an-employee-background-check.jpg": "/CareerConsultationForEmployees/static/media/how-to-do-an-employee-background-check.01ccce5c1f65bd9e27c8.jpg",
+    "static/media/profil2e.jpg": "/CareerConsultationForEmployees/static/media/profil2e.bb46ef9abf74016a0ebb.jpg",
+    "static/media/help.jpg": "/CareerConsultationForEmployees/static/media/help.f71f404d95b06009a05f.jpg",
+    "index.html": "/CareerConsultationForEmployees/index.html",
+    "main.c88616f2.css.map": "/CareerConsultationForEmployees/static/css/main.c88616f2.css.map",
+    "main.ec2e91c6.js.map": "/CareerConsultationForEmployees/static/js/main.ec2e91c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c88616f2.css",
+    "static/js/main.ec2e91c6.js"
+  ]
+}
