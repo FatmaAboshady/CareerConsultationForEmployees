@@ -1,6 +1,6 @@
 {
-  "homepage": "https://FatmaAboshady.github.io/",
-  "name": "Career_Consultaion_Foe_Employees",
+  "homepage": "https://FatmaAboshady.github.io/CareerConsultationForEmployees/",
+  "name": "template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.0",
     "bootstrap": "^4.6.1",
+    "gh-pages": "^4.0.0",
     "jquery": "^3.6.0",
     "jwt-decode": "^3.1.2",
     "popper.js": "^1.16.1",
@@ -27,6 +28,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
