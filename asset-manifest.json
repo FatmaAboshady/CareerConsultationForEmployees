@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CareerConsultationForEmployees/static/css/main.c88616f2.css",
-    "main.js": "/CareerConsultationForEmployees/static/js/main.ec2e91c6.js",
+    "main.js": "/CareerConsultationForEmployees/static/js/main.87eaba98.js",
     "static/media/Forest.png": "/CareerConsultationForEmployees/static/media/Forest.ac7952d9f9db9881a3a3.png",
     "static/media/Forms.png": "/CareerConsultationForEmployees/static/media/Forms.86abbb37df55e8995652.png",
     "static/media/Recommendation.png": "/CareerConsultationForEmployees/static/media/Recommendation.6bc6deefba0f987e9218.png",
@@ -13,10 +13,10 @@
     "static/media/help.jpg": "/CareerConsultationForEmployees/static/media/help.f71f404d95b06009a05f.jpg",
     "index.html": "/CareerConsultationForEmployees/index.html",
     "main.c88616f2.css.map": "/CareerConsultationForEmployees/static/css/main.c88616f2.css.map",
-    "main.ec2e91c6.js.map": "/CareerConsultationForEmployees/static/js/main.ec2e91c6.js.map"
+    "main.87eaba98.js.map": "/CareerConsultationForEmployees/static/js/main.87eaba98.js.map"
   },
   "entrypoints": [
     "static/css/main.c88616f2.css",
-    "static/js/main.ec2e91c6.js"
+    "static/js/main.87eaba98.js"
   ]
 }
